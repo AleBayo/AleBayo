@@ -16,5 +16,3 @@ Mis estudios:
 | **Primera etapa estudiantil** | **Segunda etapa estudiantil** | **Tercera etapa estuduantil** |
 | :-: | :-: | :-: |
 | Estudíe en el Colegio de Palomares del Río _La Regüela_ | Estudie en el grado medio en el Juan de Mairena en _Mairena del Aljarafe_ | Como ya tercera etapa estudiantil ya me metí en el _IES Rodrigo Caro_ en el curso superior de ASIR
-
-![a](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Finformatica&psig=AOvVaw062tOkzBCYrND-pUSXxu-R&ust=1730115025427000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjd8-26rokDFQAAAAAdAAAAABAE)

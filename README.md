@@ -13,5 +13,6 @@ Mis cualidades:
 
 Mis estudios:
 
-|Primera etapa estudiantil|Segunda etapa estudiantil|Tercera etapa estuduantil|
-|
+| Primera etapa estudiantil | Segunda etapa estudiantil | Tercera etapa estuduantil |
+| :-: | :-: | :-: |
+| Estudíe en el Colegio de Palomares del Río _La Regüela_ | Estudie en el grado medio en el Juan de Mairena en *Mairena del Aljarafe* | Como ya tercera etapa estudiantil ya me metí en el ~IES Rodrigo Caro~ en el curso superior de ASIR

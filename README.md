@@ -6,9 +6,7 @@ Soy una persona de 20 años con muchas ganas de aprender y muy aplicada, me meti
 
 Mis cualidades:
 
-´´´
 1. Soy una persona muy sincera
 2. Me adapto a cualquier ambiente de trabajo
 3. Doy el 100% en todo lo que hago
 4. Soy una persona sociable que le gusta trabajar en grupo
-´´´

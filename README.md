@@ -1,6 +1,6 @@
 # Hola, mi nombre es Alejandro Bayo Gómez 👋
 
-Estoy cursando el segundo año del grado sauperior del IES Rodrigo Caro en Coria del Río
+Estoy cursando el segundo año del grado sauperior del [IES Rodrigo Caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/) en Coria del Río 
 
 Soy una persona de 20 años con muchas ganas de aprender y muy aplicada, me meti en el tema de la informática por mi padre ya que mi padre es informatico y desde pequeño le he estado ayudando en lo que podia.ç
 
